@@ -8,5 +8,5 @@ vscode ready to go with es6 support and eslint.
 
 ----
 
-you may use delete the git directory: "rm -rf .git/"
+you may use to delete the git directory: "rm -rf .git/"
 and create a new repository: "git init"
